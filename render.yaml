@@ -1,8 +1,0 @@
-
-services:
-  - type: web
-    name: kilechou-trader-bot
-    env: python
-    buildCommand: ""
-    startCommand: "python bot_signal.py"
-    plan: free
